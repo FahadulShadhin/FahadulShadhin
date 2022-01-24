@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahadul-shadhin/)
 
 - :sparkles: Computer Science Undergrad 
-- :heart:s Python | C++ | Django | Angular | Flask
+- :heart:s Python | C++ | Django | Angular
 - 📝 Writes on [Medium](https://fahadulshadhin.medium.com)
 - 📫 How to reach: fahadulshadhin17@gmail.com
 <hr>
