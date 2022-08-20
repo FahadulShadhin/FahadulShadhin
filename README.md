@@ -5,7 +5,7 @@
 
 - :sparkles: Computer Science Undergrad 
 - 📝 Writes on [Medium](https://fahadulshadhin.medium.com)
-- 📫 How to reach: fahadulshadhin17@gmail.com
+- 📫 fahadulshadhin17@gmail.com
 <hr>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadulshadhin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) 
