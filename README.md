@@ -7,7 +7,7 @@
 - 📝 Writes on [Medium](https://fahadulshadhin.medium.com)
 - 📫 fahadulshadhin17@gmail.com
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadulshadhin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)  -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadulshadhin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) 
 
 <!-- ![most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadulshadhin&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=true&layout=compact&langs_count=30) -->
 
