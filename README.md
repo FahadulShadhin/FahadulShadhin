@@ -11,11 +11,12 @@
 
 <!-- ![most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadulshadhin&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=true&layout=compact&langs_count=30) -->
 
-<p float="left">
+<!-- <p float="left">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=fahadulshadhin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" 
+        width=400
     />
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadulshadhin&exclude_repo=KNN-Image%20Classification&show_icons=true&hide_border=true&layout=compact&langs_count=30" 
     />
-</p>
+</p> -->
