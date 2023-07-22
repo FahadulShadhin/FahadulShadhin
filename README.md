@@ -3,7 +3,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://fahadulshadhin.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fahadul-shadhin/)
 
-- :sparkles: Computer Science Undergrad 
+- :sparkles: Full Stack Developer | JavaScript | Python
 - 📝 Writes on [Medium](https://fahadulshadhin.medium.com)
 - 📫 fahadulshadhin17@gmail.com
 
