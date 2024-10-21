@@ -5,7 +5,7 @@
 
 <!-- - :sparkles: --> 
 - Full Stack Developer 
-- JavaScript | TypeScript | Python
+- JavaScript | Python
 <!-- - 📝 Writes on [Medium](https://fahadulshadhin.medium.com) -->
 <!-- 📫 fahadulshadhin17@gmail.com -->
 
